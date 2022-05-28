@@ -6,9 +6,9 @@ import androidx.navigation.compose.rememberNavController
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import com.roksidark.tasteapplication.navigation.NavigationTree
-import com.roksidark.tasteapplication.ui.screens.login.LoginScreen
-import com.roksidark.tasteapplication.ui.screens.login.LoginViewModel
-import com.roksidark.tasteapplication.ui.screens.splash.SplashScreen
+import com.roksidark.tasteapplication.ui.screen.login.LoginScreen
+import com.roksidark.tasteapplication.ui.screen.login.LoginViewModel
+import com.roksidark.tasteapplication.ui.screen.splash.SplashScreen
 
 
 @Composable

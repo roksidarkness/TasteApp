@@ -1,4 +1,4 @@
-package com.roksidark.tasteapplication.ui.screens.splash
+package com.roksidark.tasteapplication.ui.screen.splash
 
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.LaunchedEffect
